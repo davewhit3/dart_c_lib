@@ -1,2 +1,14 @@
-# flutter_cpp_lib
-C++ library for flutter
+# flutter_c_lib
+C library for flutter
+
+### Build
+```
+cmake .
+make
+```
+
+### Example
+```
+cd example
+dart run bin/example.dart
+```

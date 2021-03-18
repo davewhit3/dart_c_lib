@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dbialy/projects/cpp/flutter_cpp_lib/library.cpp
+library.h
+/Users/dbialy/projects/cpp/flutter_cpp_lib/library.h
+iostream
+-
+
+/Users/dbialy/projects/cpp/flutter_cpp_lib/library.h
+
