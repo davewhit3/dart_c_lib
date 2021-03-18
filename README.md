@@ -1,5 +1,5 @@
-# flutter_c_lib
-C library for flutter
+# dart_c_lib
+C library for dart
 
 ### Build
 ```
